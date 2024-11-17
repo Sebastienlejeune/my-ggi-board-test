@@ -1,0 +1,4 @@
+**/*.bak
+**/*.swp
+**/ggi_deployment.json
+.env

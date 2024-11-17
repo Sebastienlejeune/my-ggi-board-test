@@ -1,0 +1,26 @@
+issue_id,activity_id,state,title,labels,updated_at,url,tasks_total,tasks_done
+200,GGI-A-37,opened,Open source enabling digital transformation,"Decision Maker,In Progress,Strategy Goal",2022-10-01T16:28:36.093Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200,0,0
+197,GGI-A-34,opened,C-Level awareness,"Decision Maker,Done,Strategy Goal",2022-10-01T08:19:06.480Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197,0,0
+196,GGI-A-16,opened,Setup a strategy for corporate open source governance,"Decision Maker,Not Started,Strategy Goal",2022-09-28T12:06:09.849Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/196,0,0
+195,GGI-A-43,opened,Open source procurement policy,"Decision Maker,Engagement Goal,Not Started",2022-09-28T12:06:09.288Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/195,0,0
+194,GGI-A-33,opened,Engage with open source vendors,"Decision Maker,Engagement Goal,Not Started",2022-09-28T12:06:08.855Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/194,0,0
+193,GGI-A-31,opened,Publicly assert use of open source,"Decision Maker,Engagement Goal,Not Started,Team Leader",2022-09-28T12:06:08.461Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/193,0,0
+191,GGI-A-29,opened,Engage with open source projects,"Decision Maker,Developer,Engagement Goal,Not Started",2022-09-28T12:06:07.640Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/191,0,0
+187,GGI-A-26,opened,Contribute to open source projects,"Culture Goal,Developer,Not Started,Team Leader",2022-09-28T12:06:05.903Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/187,0,0
+186,GGI-A-25,opened,Promote open source development best practices,"Culture Goal,Developer,Not Started,Team Leader",2022-09-28T12:06:05.413Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/186,0,0
+185,GGI-A-44,opened,Run code reviews,"Developer,Not Started,Team Leader,Trust Goal",2022-09-28T12:06:04.978Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/185,0,0
+184,GGI-A-24,opened,Manage key indicators,"Decision Maker,Not Started,Team Leader,Trust Goal",2022-09-28T12:06:04.463Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/184,0,0
+183,GGI-A-23,opened,Manage software dependencies,"Developer,Not Started,Team Leader,Trust Goal",2022-09-28T12:06:04.026Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/183,0,0
+182,GGI-A-22,opened,Manage software vulnerabilities,"Not Started,Team Leader,Trust Goal",2022-09-28T12:06:03.590Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/182,0,0
+181,GGI-A-21,opened,Manage legal compliance,"Decision Maker,Not Started,Trust Goal",2022-09-28T12:06:03.224Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/181,0,0
+180,GGI-A-42,opened,Manage open source skills and resources,"Not Started,Team Leader,Usage Goal",2022-09-28T12:06:02.821Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/180,0,0
+179,GGI-A-20,opened,Open source enterprise software,"Decision Maker,Not Started,Usage Goal",2022-09-28T12:06:02.506Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/179,0,0
+178,GGI-A-19,opened,Open source supervision,"Not Started,Team Leader,Usage Goal",2022-09-28T12:06:02.119Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/178,0,0
+177,GGI-A-18,opened,Open source competency growth,"Not Started,Team Leader,Usage Goal",2022-09-28T12:06:01.685Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/177,0,0
+176,GGI-A-17,opened,Inventory of open source skills and resources,"Developer,Not Started,Team Leader,Usage Goal",2022-09-28T12:06:01.300Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/176,0,0
+174,GGI-A-36,opened,Open source enabling innovation,"Decision Maker,Done,Strategy Goal",2022-09-28T11:52:16.311Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174,3,3
+173,GGI-A-35,opened,Open source and digital sovereignty,"Decision Maker,Done,Strategy Goal",2022-09-28T11:51:56.173Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173,3,3
+167,GGI-A-30,opened,Support open source communities,"Decision Maker,Engagement Goal,In Progress",2022-09-28T11:51:35.577Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167,3,2
+164,GGI-A-28,opened,HR perspective,"Culture Goal,Decision Maker,In Progress",2022-09-28T11:49:28.790Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164,3,1
+163,GGI-A-27,opened,Belong to the open source community,"Culture Goal,Decision Maker,In Progress,Team Leader",2022-09-28T11:49:59.072Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163,3,2
+162,GGI-A-26,opened,Contribute to open source projects,"Culture Goal,Developer,Done,Team Leader",2022-09-28T11:50:25.658Z,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162,3,3

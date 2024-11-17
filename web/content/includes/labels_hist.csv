@@ -1,0 +1,102 @@
+time,issue_id,event_id,type,author,action,url
+2022-09-28T12:06:11.952Z,200,7580,label,project_2135_bot,add Strategy Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200
+2022-09-28T12:06:11.952Z,200,7581,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200
+2022-09-28T12:06:11.952Z,200,7582,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200
+2022-10-01T16:28:36.102Z,200,7594,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200
+2022-10-01T16:28:42.173Z,200,7596,label,bbaldassari,add In Progress,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/200
+2022-09-28T12:06:10.405Z,197,7571,label,project_2135_bot,add Strategy Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197
+2022-09-28T12:06:10.405Z,197,7572,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197
+2022-09-28T12:06:10.405Z,197,7573,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197
+2022-10-01T08:19:06.494Z,197,7589,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197
+2022-10-01T08:19:29.349Z,197,7592,label,bbaldassari,add Done,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/197
+2022-09-28T12:06:09.941Z,196,7568,label,project_2135_bot,add Strategy Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/196
+2022-09-28T12:06:09.941Z,196,7569,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/196
+2022-09-28T12:06:09.941Z,196,7570,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/196
+2022-09-28T12:06:09.398Z,195,7565,label,project_2135_bot,add Engagement Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/195
+2022-09-28T12:06:09.398Z,195,7566,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/195
+2022-09-28T12:06:09.398Z,195,7567,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/195
+2022-09-28T12:06:08.938Z,194,7562,label,project_2135_bot,add Engagement Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/194
+2022-09-28T12:06:08.938Z,194,7563,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/194
+2022-09-28T12:06:08.938Z,194,7564,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/194
+2022-09-28T12:06:08.529Z,193,7558,label,project_2135_bot,add Engagement Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/193
+2022-09-28T12:06:08.529Z,193,7559,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/193
+2022-09-28T12:06:08.529Z,193,7560,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/193
+2022-09-28T12:06:08.529Z,193,7561,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/193
+2022-09-28T12:06:07.746Z,191,7551,label,project_2135_bot,add Engagement Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/191
+2022-09-28T12:06:07.746Z,191,7552,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/191
+2022-09-28T12:06:07.746Z,191,7553,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/191
+2022-09-28T12:06:07.746Z,191,7554,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/191
+2022-09-28T12:06:05.987Z,187,7536,label,project_2135_bot,add Culture Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/187
+2022-09-28T12:06:05.987Z,187,7537,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/187
+2022-09-28T12:06:05.987Z,187,7538,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/187
+2022-09-28T12:06:05.987Z,187,7539,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/187
+2022-09-28T12:06:05.546Z,186,7532,label,project_2135_bot,add Culture Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/186
+2022-09-28T12:06:05.546Z,186,7533,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/186
+2022-09-28T12:06:05.546Z,186,7534,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/186
+2022-09-28T12:06:05.546Z,186,7535,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/186
+2022-09-28T12:06:05.075Z,185,7528,label,project_2135_bot,add Trust Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/185
+2022-09-28T12:06:05.075Z,185,7529,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/185
+2022-09-28T12:06:05.075Z,185,7530,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/185
+2022-09-28T12:06:05.075Z,185,7531,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/185
+2022-09-28T12:06:04.596Z,184,7524,label,project_2135_bot,add Trust Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/184
+2022-09-28T12:06:04.596Z,184,7525,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/184
+2022-09-28T12:06:04.596Z,184,7526,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/184
+2022-09-28T12:06:04.596Z,184,7527,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/184
+2022-09-28T12:06:04.145Z,183,7520,label,project_2135_bot,add Trust Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/183
+2022-09-28T12:06:04.145Z,183,7521,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/183
+2022-09-28T12:06:04.145Z,183,7522,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/183
+2022-09-28T12:06:04.145Z,183,7523,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/183
+2022-09-28T12:06:03.707Z,182,7517,label,project_2135_bot,add Trust Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/182
+2022-09-28T12:06:03.707Z,182,7518,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/182
+2022-09-28T12:06:03.707Z,182,7519,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/182
+2022-09-28T12:06:03.341Z,181,7514,label,project_2135_bot,add Trust Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/181
+2022-09-28T12:06:03.341Z,181,7515,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/181
+2022-09-28T12:06:03.341Z,181,7516,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/181
+2022-09-28T12:06:02.904Z,180,7511,label,project_2135_bot,add Usage Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/180
+2022-09-28T12:06:02.904Z,180,7512,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/180
+2022-09-28T12:06:02.904Z,180,7513,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/180
+2022-09-28T12:06:02.579Z,179,7508,label,project_2135_bot,add Usage Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/179
+2022-09-28T12:06:02.579Z,179,7509,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/179
+2022-09-28T12:06:02.579Z,179,7510,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/179
+2022-09-28T12:06:02.203Z,178,7505,label,project_2135_bot,add Usage Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/178
+2022-09-28T12:06:02.203Z,178,7506,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/178
+2022-09-28T12:06:02.203Z,178,7507,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/178
+2022-09-28T12:06:01.783Z,177,7502,label,project_2135_bot,add Usage Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/177
+2022-09-28T12:06:01.783Z,177,7503,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/177
+2022-09-28T12:06:01.783Z,177,7504,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/177
+2022-09-28T12:06:01.419Z,176,7498,label,project_2135_bot,add Usage Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/176
+2022-09-28T12:06:01.419Z,176,7499,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/176
+2022-09-28T12:06:01.419Z,176,7500,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/176
+2022-09-28T12:06:01.419Z,176,7501,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/176
+2022-09-28T11:47:37.776Z,174,7480,label,project_2135_bot,add Strategy Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174
+2022-09-28T11:47:37.776Z,174,7481,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174
+2022-09-28T11:47:37.776Z,174,7482,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174
+2022-09-28T11:52:00.423Z,174,7496,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174
+2022-09-28T11:52:06.771Z,174,7497,label,bbaldassari,add Done,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/174
+2022-09-28T11:47:36.073Z,173,7477,label,project_2135_bot,add Strategy Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173
+2022-09-28T11:47:36.073Z,173,7478,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173
+2022-09-28T11:47:36.073Z,173,7479,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173
+2022-09-28T11:51:41.879Z,173,7494,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173
+2022-09-28T11:51:46.965Z,173,7495,label,bbaldassari,add Done,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/173
+2022-09-28T11:47:33.613Z,167,7458,label,project_2135_bot,add Engagement Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167
+2022-09-28T11:47:33.613Z,167,7459,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167
+2022-09-28T11:47:33.613Z,167,7460,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167
+2022-09-28T11:51:19.319Z,167,7492,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167
+2022-09-28T11:51:25.753Z,167,7493,label,bbaldassari,add In Progress,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/167
+2022-09-28T11:47:32.377Z,164,7447,label,project_2135_bot,add Culture Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164
+2022-09-28T11:47:32.377Z,164,7448,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164
+2022-09-28T11:47:32.377Z,164,7449,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164
+2022-09-28T11:49:31.899Z,164,7486,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164
+2022-09-28T11:49:40.767Z,164,7487,label,bbaldassari,add In Progress,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/164
+2022-09-28T11:47:31.989Z,163,7443,label,project_2135_bot,add Culture Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:47:31.989Z,163,7444,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:47:31.989Z,163,7445,label,project_2135_bot,add Decision Maker,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:47:31.989Z,163,7446,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:49:45.635Z,163,7488,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:49:50.481Z,163,7489,label,bbaldassari,add In Progress,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/163
+2022-09-28T11:47:31.580Z,162,7439,label,project_2135_bot,add Culture Goal,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162
+2022-09-28T11:47:31.580Z,162,7440,label,project_2135_bot,add Team Leader,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162
+2022-09-28T11:47:31.580Z,162,7441,label,project_2135_bot,add Developer,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162
+2022-09-28T11:47:31.580Z,162,7442,label,project_2135_bot,add Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162
+2022-09-28T11:50:11.858Z,162,7490,label,bbaldassari,remove Not Started,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162
+2022-09-28T11:50:15.234Z,162,7491,label,bbaldassari,add Done,https://gitlab.ow2.org/ggi/my-ggi-board-test/-/issues/162

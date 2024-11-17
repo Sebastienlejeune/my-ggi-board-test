@@ -1,0 +1,41 @@
+# This file is derived from a GitLab template.
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Pages/Hugo.gitlab-ci.yml
+
+variables:
+  GIT_SUBMODULE_STRATEGY: none
+  GGI_GITLAB_TOKEN: $GGI_GITLAB_TOKEN
+
+stages:
+  - build
+  - deploy
+
+update_website:
+  stage: build
+  image: python:3.7
+  script:
+    - python -m	pip install -r requirements.txt
+    - python scripts/ggi_deploy_github.py -a -b -d -p
+    - python scripts/ggi_update_website_github.py
+  cache:
+    key: "$CI_COMMIT_SHORT_SHA"
+    paths:
+      - ./web
+
+pages:
+  stage: deploy
+  # All available Hugo versions are listed here:
+  # https://gitlab.com/pages/hugo/container_registry
+  image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+  script:
+    - cd web && hugo && cd -
+    - mv -v web/public .
+  cache:
+    key: "$CI_COMMIT_SHORT_SHA"
+    paths:
+      - ./web
+  artifacts:
+    paths:
+      - public/
+  only:
+    - main

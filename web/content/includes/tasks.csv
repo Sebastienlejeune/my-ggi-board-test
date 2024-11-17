@@ -1,0 +1,19 @@
+issue_id,state,task
+GGI-A-36,completed,objective 1
+GGI-A-36,completed,objective 2
+GGI-A-36,completed,objective 3
+GGI-A-35,completed,objective 1
+GGI-A-35,completed,objective 2
+GGI-A-35,completed,objective 3
+GGI-A-30,completed,objective 1
+GGI-A-30,completed,objective 2
+GGI-A-30,open,objective 3
+GGI-A-28,open,objective 1
+GGI-A-28,completed,objective 2
+GGI-A-28,open,objective 3
+GGI-A-27,open,objective 1
+GGI-A-27,completed,objective 2
+GGI-A-27,completed,objective 3
+GGI-A-26,completed,objective 1
+GGI-A-26,completed,objective 2
+GGI-A-26,completed,objective 3

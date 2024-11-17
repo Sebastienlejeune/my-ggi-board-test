@@ -1,0 +1,12 @@
+.my {
+    padding-top: 2rem;
+    a {
+        border: none;
+        text-decoration: underline;
+
+        &:hover {
+            border: none;
+        }
+    }
+}
+
