@@ -14,7 +14,7 @@ update_website:
   image: python:latest
   script:
     - python -m	pip install -r requirements.txt
-    - python scripts/ggi_deploy_gitlab.py -a -b -d -p --random-demo
+    - python scripts/ggi_deploy_gitlab.py -a -b -d -p
     - python scripts/ggi_update_website_gitlab.py
     - head web/config.toml
   cache:
