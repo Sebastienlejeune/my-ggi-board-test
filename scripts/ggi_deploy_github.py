@@ -189,10 +189,14 @@ def setup_github(metadata, params: dict, init_scorecard, args: dict):
     if args.opt_projdesc:
         print("\n# Update Project description")
         ggi_activities_url = params['github_activities_url']
-        ggi_pages_url = os.getenv('GITHUB_PAGES_URL', 'Not Available')
+
+        repo_fullname = os.getenv("GITHUB_REPOSITORY", "unknown/repo")  # "username/repository-name"
+        repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER", "unknown")  # "username"
+        repo_name = repo_fullname.split("/")[-1]
+        github_pages_url = f"https://{repo_owner}.github.io/{repo_name}/"
 
         desc = (
-            'Here you will find your dashboard: ' + ggi_pages_url + ' and the issues board: ' + ggi_activities_url + ' with all activities describing the local GGI'
+            'Here you will find your dashboard: ' + github_pages_url + ' and the issues board: ' + ggi_activities_url + ' with all activities describing the local GGI'
         )
         print(f"nNew description:\n<<<---------\n{desc}\n--------->>>\n")
 
