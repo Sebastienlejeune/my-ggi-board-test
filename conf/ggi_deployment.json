@@ -2,7 +2,7 @@
     "gitlab_url": "https://gitlab.ow2.org",
     "gitlab_project": "ggi/my-ggi-board-test",
     "github_url": null,
-    "github_project": "ospo-alliance/my-ggi-board-test",
+    "github_project": "Sebastienlejeune/my-ggi-board-test",
     "progress_labels": {
         "not_started": "Not Selected",
         "in_progress": "In Progress",
