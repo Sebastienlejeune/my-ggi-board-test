@@ -109,23 +109,10 @@ def retrieve_github_issues(params: dict):
         short_desc = '\n'.join(description)
         tasks_total = len(a_tasks)
         tasks_done = len([t for t in a_tasks if t['is_completed']])
-        #TODO comprendre pourquoi i.state et pas le label de progression
-        #TODO comprendre pourquoi tasks_total et done sont mal calculés pour GitHub
+
         issues.append([i.id, a_id, i.state, i.title, ','.join([label.name for label in i.labels]),
                        i.updated_at, i.url, short_desc, workflow,
                        tasks_total, tasks_done])
-
-        # Retrieve information about labels.
-        # for n in i.resourcelabelevents.list():
-        #     event = i.resourcelabelevents.get(n.id)
-        #     n_type = 'label'
-        #     label = n.label['name'] if n.label else ''
-        #     n_action = f"{n.action} {label}"
-        #     user = n.user['username'] if n.user else 'unknown'
-        #     line = [n.created_at, i.iid,
-        #             n.id, n_type, user,
-        #             n_action, i.web_url]
-        #     hist.append(line)
 
         for event in i.get_events():
             if event.event == "labeled" or event.event == "unlabeled":

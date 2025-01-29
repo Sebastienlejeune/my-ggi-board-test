@@ -185,18 +185,16 @@ def setup_github(metadata, params: dict, init_scorecard, args: dict):
     repo = g.get_repo(params['github_project'])
 
     # Update current project description with Website URL
-    # TODO make this work
     if args.opt_projdesc:
         print("\n# Update Project description")
 
         desc = (
-            'Your own Good Governance Initiative project.'
+            'Here you will find your dashboard: {ggi_pages_url}) and the issues board: {ggi_activities_url}) with all activities describing the local GGI'
         )
-        print(f"\nNew description:\n<<<---------\n{desc}\n--------->>>\n")
+        print(f"nNew description:\n<<<---------\n{desc}\n--------->>>\n")
 
         # Update the repository description
-        repo.edit(description=desc)
-
+        repo.edit(description=desc, homepage="https://ospo-alliance.org/")
 
     #
     # Create labels & activities
