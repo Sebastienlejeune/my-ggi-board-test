@@ -167,6 +167,7 @@ def setup_github(metadata, params: dict, init_scorecard, args: dict):
 
 
     params['github_repo_url'] = urllib.parse.urljoin(params['github_url'], params['github_project'])
+    params['github_activities_url'] = urllib.parse.urljoin(params['github_url'], '/', 'projects')
 
     print("Configuration:")
     print("URL     : " + params['github_url'])
@@ -187,9 +188,11 @@ def setup_github(metadata, params: dict, init_scorecard, args: dict):
     # Update current project description with Website URL
     if args.opt_projdesc:
         print("\n# Update Project description")
+        ggi_activities_url = params['github_activities_url']
+        ggi_pages_url = os.getenv('GITHUB_PAGES_URL', 'Not Available')
 
         desc = (
-            'Here you will find your dashboard: {ggi_pages_url}) and the issues board: {ggi_activities_url}) with all activities describing the local GGI'
+            'Here you will find your dashboard: ' + ggi_pages_url + ' and the issues board: ' + ggi_activities_url + ' with all activities describing the local GGI'
         )
         print(f"nNew description:\n<<<---------\n{desc}\n--------->>>\n")
 
