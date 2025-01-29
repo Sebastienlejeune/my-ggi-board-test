@@ -167,7 +167,7 @@ def setup_github(metadata, params: dict, init_scorecard, args: dict):
 
 
     params['github_repo_url'] = urllib.parse.urljoin(params['github_url'], params['github_project'])
-    params['github_activities_url'] = urllib.parse.urljoin(params['github_url'], '/', 'projects')
+    params['github_activities_url'] = params['github_repo_url'] + '/projects'
 
     print("Configuration:")
     print("URL     : " + params['github_url'])
